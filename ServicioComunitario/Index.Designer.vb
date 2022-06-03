@@ -59,9 +59,9 @@ Partial Class Index
         Me.nombreusuario.ForeColor = System.Drawing.Color.White
         Me.nombreusuario.Location = New System.Drawing.Point(23, 19)
         Me.nombreusuario.Name = "nombreusuario"
-        Me.nombreusuario.Size = New System.Drawing.Size(211, 25)
+        Me.nombreusuario.Size = New System.Drawing.Size(57, 25)
         Me.nombreusuario.TabIndex = 0
-        Me.nombreusuario.Text = "Nombre de usuario"
+        Me.nombreusuario.Text = "hola"
         '
         'PanelSideMenu
         '

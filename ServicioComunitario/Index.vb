@@ -84,6 +84,10 @@
         Application.Exit()
 
     End Sub
+
+    Private Sub nombreusuario_Click(sender As Object, e As EventArgs) Handles nombreusuario.Click
+
+    End Sub
 #End Region
 
 End Class
