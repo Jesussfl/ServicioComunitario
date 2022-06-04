@@ -1,5 +1,6 @@
 ﻿Public Class Index
 #Region "GLOBALES"
+    'prueba hecha para comprobar la conexion'
 
     Private Sub Index_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
